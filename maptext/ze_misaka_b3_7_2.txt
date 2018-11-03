@@ -1201,7 +1201,7 @@
 	}
 	"<< Stage 1 >>"
 	{
-		"chi"		"** **"
+		"chi"		"**第一关**"
 	}
 	"<< map by Misaka >>"
 	{
@@ -1209,27 +1209,27 @@
 	}
 	"<< special thanks to 93x.net and all test players >>"
 	{
-		"chi"		"** **"
+		"chi"		"**感谢X社区以及所有测试玩家**"
 	}
 	"<< A zombie has picked up speed >>"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸捡起了加速**"
 	}
 	"<< defend for 15 seconds >>"
 	{
-		"chi"		"** **"
+		"chi"		"**防守15秒**"
 	}
 	"<< defeat the boss >>"
 	{
-		"chi"		"** **"
+		"chi"		"**击败boss**"
 	}
 	"<< Be Careful! You only have 120 seconds to defeat the boss >>"
 	{
-		"chi"		"** **"
+		"chi"		"**注意!你只有120秒的时间去击败boss**"
 	}
 	"<< zombie used speed >>"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸加速使用了**"
 	}
 	"<< up and down !!! >>"
 	{
@@ -1241,11 +1241,11 @@
 	}
 	"<< Stage 2 >>"
 	{
-		"chi"		"** **"
+		"chi"		"**第二关**"
 	}
 	"<< a player has picked up wind >>"
 	{
-		"chi"		"** **"
+		"chi"		"**一名玩家捡起了风神器**"
 	}
 	"<< a player has picked up wall >>"
 	{
@@ -1253,67 +1253,67 @@
 	}
 	"<< teleport will enable in 20 seconds >>"
 	{
-		"chi"		"** **"
+		"chi"		"**20秒后传送**"
 	}
 	"<< A player has picked up heal >>"
 	{
-		"chi"		"** **"
+		"chi"		"**一名玩家捡起了奶神器**"
 	}
 	"<< zombie will teleport in 10 seconds >>"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸将会在10秒后传送**"
 	}
 	"<< the way will be able to pass in 15 seconds >>"
 	{
-		"chi"		"** **"
+		"chi"		"**路将在15秒后可以通行**"
 	}
 	"<< hold for 25 seconds >>"
 	{
-		"chi"		"** **"
+		"chi"		"**坚守25秒**"
 	}
 	"<< the teleport will enable in 30 seconds >>"
 	{
-		"chi"		"** **"
+		"chi"		"**30秒后传送**"
 	}
 	"<< zombie will come in 5 seconds >>"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸将会在5秒后到达**"
 	}
 	"<< we can go into the tower in 35 seconds >>"
 	{
-		"chi"		"** **"
+		"chi"		"**我们可以在35秒后进入高塔**"
 	}
 	"<< hold for 30 seconds >>"
 	{
-		"chi"		"** **"
+		"chi"		"**坚守30秒**"
 	}
 	"<< zombie will teleport in 20 seconds >>"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸将会在20秒后传送**"
 	}
 	"<< the guard will disappear in 30 seconds >>"
 	{
-		"chi"		"** **"
+		"chi"		"**守卫将在30秒后消失**"
 	}
 	"<< climb to the top and shooting the guard, so that the teleport can be activated >>"
 	{
-		"chi"		"** **"
+		"chi"		"**爬到塔的最顶端，然后射击守卫以触发传送**"
 	}
 	"<< Be Careful, only shooting the head of the guard may cause damage >>"
 	{
-		"chi"		"** **"
+		"chi"		"**注意，只有射击守卫的头才会造成伤害**"
 	}
 	"<< teleport will enable in 40 seconds >>"
 	{
-		"chi"		"** **"
+		"chi"		"**40秒后传送**"
 	}
 	"<< the ladder is able to climb >>"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸现在可以爬梯子了**"
 	}
 	"<< So we meet the second time >>"
 	{
-		"chi"		"** **"
+		"chi"		"**所以这是我们第二次见面了**"
 	}
 	"<< Let me see what you can do >>"
 	{
@@ -1325,11 +1325,11 @@
 	}
 	"<< zombie will release in 10 seconds >>"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸10秒后释放**"
 	}
 	"<< the guard will disappear in 25 seconds >>"
 	{
-		"chi"		"** **"
+		"chi"		"**守卫将在25秒后消失**"
 	}
 	"<< Its Misaka Again!!! >>"
 	{
@@ -1341,7 +1341,7 @@
 	}
 	"<<You only have 25 seconds to get to the end >>"
 	{
-		"chi"		"** **"
+		"chi"		"**你只有25秒的时间**"
 	}
 	"<< Stage 2 Complete >>"
 	{
@@ -1349,11 +1349,11 @@
 	}
 	"<< Stage 3 >>"
 	{
-		"chi"		"** **"
+		"chi"		"**第三关**"
 	}
 	"<< the fence will disappear in 20 seconds >>"
 	{
-		"chi"		"** **"
+		"chi"		"**栅栏将在20秒后消失**"
 	}
 	"<< A player has got the letter M >>"
 	{
@@ -1361,7 +1361,7 @@
 	}
 	"<< hold for 15 seconds until the guards permit us to go >>"
 	{
-		"chi"		"** **"
+		"chi"		"**坚守15秒直到守卫允许我们通过**"
 	}
 	"<< wait until we know which way can pass >>"
 	{
@@ -1405,15 +1405,15 @@
 	}
 	"<< Absolute Purification >>"
 	{
-		"chi"		"** **"
+		"chi"		"**绝对净化(转盘)**"
 	}
 	"<< Hunting Instinct >>"
 	{
-		"chi"		">>>跳刀<<<"
+		"chi"		">>>狩猎本能(跳刀)<<<"
 	}
 	"<< Sign of Death >>"
 	{
-		"chi"		">>>天坠<<<"
+		"chi"		">>>死亡信号(天坠)<<<"
 	}
 	"<< A player has got the letter I >>"
 	{
@@ -1529,7 +1529,7 @@
 	}
 	"<< Mega Push >>"
 	{
-		"chi"		"** **"
+		"chi"		"**超级推力(3次W抵抗）**"
 	}
 	"sync_version"
 	{
@@ -1537,22 +1537,22 @@
 	}
 	"<< special thanks to koyomaple and gneL>>"
 	{
-		"chi"		"** **"
+		"chi"		"**特别感谢枫哥和冷**"
 	}
 	"<< thanks to 93x.net and all test players >>"
 	{
-		"chi"		"** **"
+		"chi"		"**感谢X社区以及所有测试玩家**"
 	}
 	"<< heal used >>"
 	{
-		"chi"		"** **"
+		"chi"		"**奶使用了**"
 	}
 	"<< wait for a moment >>"
 	{
-		"chi"		"** **"
+		"chi"		"**稍等一会**"
 	}
 	"<< hold for 55 seconds >>"
 	{
-		"chi"		"** **"
+		"chi"		"**坚守55秒**"
 	}
 }
