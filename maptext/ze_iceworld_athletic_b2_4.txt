@@ -222,7 +222,7 @@
 	}
 	"<< After a little time, only a few number of platform will be safe >>"
 	{
-		"chi"		"** **"
+		"chi"		"**一小段时间之后，只有少数板子是安全的**"
 	}
 	"<< Oh My God The Fucking Mapper is in the serve >>"
 	{
@@ -230,11 +230,11 @@
 	}
 	"<< a player has picked up wind >>"
 	{
-		"chi"		"** **"
+		"chi"		"**一名玩家捡起了风**"
 	}
 	"<< it has a 50 seconds cool down >>"
 	{
-		"chi"		"** **"
+		"chi"		"**冷却时间为五十秒**"
 	}
 	"<< zombie will arrive in 10 seconds >>"
 	{
@@ -258,7 +258,7 @@
 	}
 	"<< DEATHRUN MODE >>"
 	{
-		"chi"		"** **"
+		"chi"		"**死亡奔跑模式**"
 	}
 	"<< Welcome to DeathRun!!! >>"
 	{
