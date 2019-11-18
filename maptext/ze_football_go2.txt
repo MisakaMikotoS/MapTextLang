@@ -3,6 +3,7 @@
 	"***Map by DarkerZ [RUS]***"
 	{
 		"chi"		"** 地图作者：DarkerZ [RUS] 地图翻译：神々が恋した幻想郷**"
+		"command"		"sm_locktimelimit 45"
 	}
 	"***WARMUP***"
 	{
