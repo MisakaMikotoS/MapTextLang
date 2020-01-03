@@ -2264,7 +2264,7 @@
     },
     "ze_laserend_v2": {
         "name": "ze_laserend_v2",
-        "cn_name": "",
+        "cn_name": "最终跳刀",
         "default": "ze_laserend_v3",
         "versions": [
             "ze_laserend_v2",
@@ -2822,12 +2822,19 @@
             "ze_pallaroid_rage_v1"
         ]
     },
-    "ze_pandora_revolutionz_hdr2": {
-        "name": "ze_pandora_revolutionz_hdr2",
-        "cn_name": "潘多拉复仇",
+    "ze_pandora_evolution": {
+        "name": "ze_pandora_evolution",
+        "cn_name": "潘多拉：进化",
         "default": "ze_pandora_revolutionz_hdr2",
         "versions": [
-            "ze_pandora_evolution"
+            "ze_pandora_evolution",
+        ]
+    },
+    "ze_pandora_revolutionz_hdr2": {
+        "name": "ze_pandora_revolutionz_hdr2",
+        "cn_name": "潘多拉：革新",
+        "default": "ze_pandora_revolutionz_hdr2",
+        "versions": [
             "ze_pandora_revolutionz",
             "ze_pandora_revolutionz_hdr2"
         ]
@@ -2978,7 +2985,7 @@
     },
     "ze_rain1_v1x": {
         "name": "ze_rain1_v1x",
-        "cn_name": "时落之雨1",
+        "cn_name": "时落之雨1：暴风孤岛",
         "default": "ze_raintime1_torontoisland_v4x",
         "versions": [
             "ze_rain1_v1x",
@@ -2995,7 +3002,7 @@
     },
     "ze_raintime2_stormwindkeep_v5x ": {
         "name": "ze_raintime2_stormwindkeep_v5x ",
-        "cn_name": "时落之雨2",
+        "cn_name": "时落之雨2：风暴守护",
         "default": "ze_raintime2_stormwindkeep_v5x ",
         "versions": [
             "ze_raintime2_stormwindkeep_v5x "
