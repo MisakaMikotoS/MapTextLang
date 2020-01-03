@@ -2345,20 +2345,13 @@
             "ze_lila_panic_escape_v3_2"
         ]
     },
-    "ze_lolxd_final_fix": {
-        "name": "ze_lolxd_final_fix",
-        "cn_name": "23333333",
-        "default": "ze_lolxd_final_fix",
-        "versions": [
-            "ze_lolxd_final_fix"
-        ]
-    },
     "ze_lolxd_final_fix_iswear_v3": {
         "name": "ze_lolxd_final_fix_iswear_v3",
         "cn_name": "紫色世界",
         "default": "ze_lolxd_final_fix_iswear_v3",
         "versions": [
             "ze_lolxd_final_fix_iswear_v3"
+            "ze_lolxd_final_fix"
         ]
     },
     "ze_lost_v1_1": {
