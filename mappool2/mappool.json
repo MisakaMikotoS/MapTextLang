@@ -1,6 +1,6 @@
 {
     "ze_2012_p3": {
-        "name": "ze_2012_p3",
+        "name": "ze_2012",
         "cn_name": "2012世界末日逃生",
         "default": "ze_2012_p3",
         "versions": [
@@ -16,7 +16,7 @@
         ]
     },
     "ze_2554_v1": {
-        "name": "ze_2554_v1",
+        "name": "ze_2554",
         "cn_name": "Ryan的噩梦",
         "default": "ze_2554_v1",
         "versions": [
@@ -24,7 +24,7 @@
         ]
     },
     "ze_30_seconds__b21_p2": {
-        "name": "ze_30_seconds__b21_p2",
+        "name": "ze_30_seconds",
         "cn_name": "30秒逃脱",
         "default": "ze_30_seconds__b21_p2",
         "versions": [
@@ -32,7 +32,7 @@
         ]
     },
     "ze_666_crazy_escape_v1_1": {
-        "name": "ze_666_crazy_escape_v1_1",
+        "name": "ze_666_crazy_escape",
         "cn_name": "恶魔版疯狂大逃亡",
         "default": "ze_666_crazy_escape_v1_1",
         "versions": [
@@ -40,7 +40,7 @@
         ]
     },
     "ze_8bit_csgo2": {
-        "name": "ze_8bit_csgo2",
+        "name": "ze_8bit",
         "cn_name": "俄罗斯方块之城",
         "default": "ze_8bit_csgo3",
         "versions": [
@@ -50,7 +50,7 @@
         ]
     },
     "ze_ATIX_extinction_p2": {
-        "name": "ze_ATIX_extinction_p2",
+        "name": "ze_ATIX_extinction",
         "cn_name": "末日逃生",
         "default": "ze_ATIX_extinction_p2",
         "versions": [
@@ -58,7 +58,7 @@
         ]
     },
     "ze_A_E_S_T_H_E_T_I_C_v1_1": {
-        "name": "ze_A_E_S_T_H_E_T_I_C_v1_1",
+        "name": "ze_A_E_S_T_H_E_T_I_C",
         "cn_name": "舞台剧",
         "default": "ze_A_E_S_T_H_E_T_I_C_v1_1",
         "versions": [
@@ -66,7 +66,7 @@
         ]
     },
     "ze_AcuticNotes_v1_2f": {
-        "name": "ze_AcuticNotes_v1_2f",
+        "name": "ze_AcuticNotes",
         "cn_name": "技巧很重要",
         "default": "ze_AcuticNotes_v1_2f",
         "versions": [
@@ -74,9 +74,9 @@
         ]
     },
     "ze_Ancient_Wrath_v2_test27_g3t": {
-        "name": "ze_Ancient_Wrath_v2_test27_g3t",
+        "name": "ze_Ancient_Wrath_v2_test27",
         "cn_name": "古代遗迹：生化金字塔",
-        "default": "ze_ancient_wrath_v2_test27_g5t",
+        "default": "ze_ancient_wrath_v2_test27_g6t",
         "versions": [
             "ze_Ancient_Wrath_v2_test27_g3t",
             "ze_Ancient_Wrath_v2_test27_g4t",
@@ -88,7 +88,7 @@
         ]
     },
     "ze_ApertureScience_p2": {
-        "name": "ze_ApertureScience_p2",
+        "name": "ze_ApertureScience",
         "cn_name": "光圈科技",
         "default": "ze_ApertureScience_p2",
         "versions": [
@@ -96,7 +96,7 @@
         ]
     },
     "ze_Apollo_p2": {
-        "name": "ze_Apollo_p2",
+        "name": "ze_Apollo",
         "cn_name": "阿波罗登月计划",
         "default": "ze_Apollo_p2",
         "versions": [
@@ -104,7 +104,7 @@
         ]
     },
     "ze_Avalanche_Reboot_beta7_g2f": {
-        "name": "ze_Avalanche_Reboot_beta7_g2f",
+        "name": "ze_Avalanche_Reboot_beta7",
         "cn_name": "重启雪崩计划",
         "default": "ze_Avalanche_Reboot_beta7_g3t",
         "versions": [
@@ -113,7 +113,7 @@
         ]
     },
     "ze_Bathroom_v2_5": {
-        "name": "ze_Bathroom_v2_5",
+        "name": "ze_Bathroom",
         "cn_name": "浴室大逃亡",
         "default": "ze_Bathroom_v2_5",
         "versions": [
@@ -121,7 +121,7 @@
         ]
     },
     "ze_CV_LOSII_Castle_Siege_b4": {
-        "name": "ze_CV_LOSII_Castle_Siege_b4",
+        "name": "ze_CV_LOSII_Castle_Siege",
         "cn_name": "洛希城堡",
         "default": "ze_CV_LOSII_Castle_Siege_b4",
         "versions": [
@@ -129,7 +129,7 @@
         ]
     },
     "ze_DOOM_p2": {
-        "name": "ze_DOOM_p2",
+        "name": "ze_DOOM",
         "cn_name": "毁灭战士",
         "default": "ze_DOOM_p2",
         "versions": [
@@ -137,7 +137,7 @@
         ]
     },
     "ze_Death_Valley_b2": {
-        "name": "ze_Death_Valley_b2",
+        "name": "ze_Death_Valley",
         "cn_name": "逃离死亡峡谷",
         "default": "ze_Death_Valley_b2",
         "versions": [
@@ -145,7 +145,7 @@
         ]
     },
     "ze_Desperate_Soul_a1": {
-        "name": "ze_Desperate_Soul_a1",
+        "name": "ze_Desperate_Soul",
         "cn_name": "异闻录：绝望之灵",
         "default": "ze_Desperate_Soul_a3t",
         "versions": [
@@ -155,7 +155,7 @@
         ]
     },
     "ze_Doorhug_and_Solo_v6_2_g1t": {
-        "name": "ze_Doorhug_and_Solo_v6_2_g1t",
+        "name": "ze_Doorhug_and_Solo",
         "cn_name": "贴门就能solo",
         "default": "ze_doorhug_and_solo_v5_2_csgo",
         "versions": [
@@ -164,7 +164,7 @@
         ]
     },
     "ze_Ep2_Plant_b1": {
-        "name": "ze_Ep2_Plant_b1",
+        "name": "ze_Ep2_Plant",
         "cn_name": "逃离未来科技园",
         "default": "ze_Ep2_Plant_b1",
         "versions": [
@@ -172,7 +172,7 @@
         ]
     },
     "ze_Escape_Citadel_r2": {
-        "name": "ze_Escape_Citadel_r2",
+        "name": "ze_Escape_Citadel",
         "cn_name": "逃离：17号都市要塞",
         "default": "ze_Escape_Citadel_r2",
         "versions": [
@@ -238,7 +238,7 @@
         ]
     },
     "ze_FFXII_Ridorana_Cataract_t5_3_g1f": {
-        "name": "ze_FFXII_Ridorana_Cataract_t5_3_g1f",
+        "name": "ze_FFXII_Ridorana_Cataract_t5_3",
         "cn_name": "最终幻想12：里多拉纳大瀑布",
         "default": "ze_FFXII_Ridorana_Cataract_t5_3_g2f",
         "versions": [
@@ -249,7 +249,7 @@
         ]
     },
     "ze_Fat_house_escape_v1_0_6d": {
-        "name": "ze_Fat_house_escape_v1_0_6d",
+        "name": "ze_Fat_house_escape",
         "cn_name": "逃出肥宅房",
         "default": "ze_Fat_house_escape_v1_0_6d",
         "versions": [
@@ -257,7 +257,7 @@
         ]
     },
     "ze_Halloween_House_b4": {
-        "name": "ze_Halloween_House_b4",
+        "name": "ze_Halloween_House",
         "cn_name": "万圣屋惊魂",
         "default": "ze_Halloween_House_b4",
         "versions": [
@@ -265,7 +265,7 @@
         ]
     },
     "ze_Haste_to_flee_1b": {
-        "name": "ze_Haste_to_flee_1b",
+        "name": "ze_Haste_to_flee",
         "cn_name": "极速撤离",
         "default": "ze_Haste_to_flee_1b",
         "versions": [
@@ -273,7 +273,7 @@
         ]
     },
     "ze_Hell_Escape_p2": {
-        "name": "ze_Hell_Escape_p2",
+        "name": "ze_Hell_Escape",
         "cn_name": "地狱逃亡",
         "default": "ze_Hell_Escape_p2",
         "versions": [
@@ -281,7 +281,7 @@
         ]
     },
     "ze_Hiems_facilities_v2_1": {
-        "name": "ze_Hiems_facilities_v2_1",
+        "name": "ze_Hiems_facilities",
         "cn_name": "逃离冬季工厂",
         "default": "ze_hiems_facilities_v3ar_b7_rename",
         "versions": [
@@ -290,7 +290,7 @@
         ]
     },
     "ze_Island_Escape_p3": {
-        "name": "ze_Island_Escape_p3",
+        "name": "ze_Island_Escape",
         "cn_name": "孤岛求生",
         "default": "ze_Island_Escape_p3",
         "versions": [
@@ -298,7 +298,7 @@
         ]
     },
     "ze_JurassicPark_Escape_p2": {
-        "name": "ze_JurassicPark_Escape_p2",
+        "name": "ze_JurassicPark_Escape",
         "cn_name": "逃离侏罗纪公园",
         "default": "ze_JurassicPark_Escape_p2",
         "versions": [
@@ -306,7 +306,7 @@
         ]
     },
     "ze_JurassicPark_p3": {
-        "name": "ze_JurassicPark_p3",
+        "name": "ze_JurassicPark",
         "cn_name": "侏罗纪公园逃生",
         "default": "ze_JurassicPark_p3",
         "versions": [
@@ -314,7 +314,7 @@
         ]
     },
     "ze_Kitchen_v1_2": {
-        "name": "ze_Kitchen_v1_2",
+        "name": "ze_Kitchen",
         "cn_name": "厨房大逃亡",
         "default": "ze_Kitchen_v2",
         "versions": [
@@ -324,7 +324,7 @@
         ]
     },
     "ze_LOTR_Helms_Deep_v5_p6": {
-        "name": "ze_LOTR_Helms_Deep_v5_p6",
+        "name": "ze_LOTR_Helms_Deep",
         "cn_name": "魔戒：圣盔谷",
         "default": "ze_LOTR_Helms_Deep_v5_p6",
         "versions": [
@@ -332,7 +332,7 @@
         ]
     },
     "ze_LOTR_Minas_Tiret_p2": {
-        "name": "ze_LOTR_Minas_Tiret_p2",
+        "name": "ze_LOTR_Minas_Tiret",
         "cn_name": "魔戒：米纳斯会议",
         "default": "ze_LOTR_Minas_Tiret_p2",
         "versions": [
@@ -340,7 +340,7 @@
         ]
     },
     "ze_lotr_minas_tirith_p5": {
-        "name": "ze_lotr_minas_tirith_p5",
+        "name": "ze_lotr_minas_tirith",
         "cn_name": "魔戒3：米那斯提力斯",
         "default": "ze_lotr_minas_tirith_p5",
         "versions": [
@@ -349,7 +349,7 @@
         ]
     },
     "ze_LOTR_Mines_of_Moria_p2": {
-        "name": "ze_LOTR_Mines_of_Moria_p2",
+        "name": "ze_LOTR_Mines_of_Moria",
         "cn_name": "魔戒：莫瑞亚矿坑",
         "default": "ze_LOTR_Mines_of_Moria_p2",
         "versions": [
@@ -357,7 +357,7 @@
         ]
     },
     "ze_LOTR_Mirkwood_v2_5": {
-        "name": "ze_LOTR_Mirkwood_v2_5",
+        "name": "ze_LOTR_Mirkwood",
         "cn_name": "魔戒：幽暗密林",
         "default": "ze_LOTR_Mirkwood_v2_5",
         "versions": [
@@ -365,7 +365,7 @@
         ]
     },
     "ze_LOTR_Mount_Doom_p3": {
-        "name": "ze_LOTR_Mount_Doom_p3",
+        "name": "ze_LOTR_Mount_Doom",
         "cn_name": "魔戒3：末日火山",
         "default": "ze_LOTR_Mount_Doom_p3",
         "versions": [
@@ -373,7 +373,7 @@
         ]
     },
     "ze_L_The_Lower_v1_4": {
-        "name": "ze_L_The_Lower_v1_4",
+        "name": "ze_L_The_Lower",
         "cn_name": "艾罗之城（上）",
         "default": "ze_L_The_Lower_v1_4",
         "versions": [
@@ -381,7 +381,7 @@
         ]
     },
     "ze_L_The_Medium_v1_6": {
-        "name": "ze_L_The_Medium_v1_6",
+        "name": "ze_L_The_Medium",
         "cn_name": "艾罗之城（中）",
         "default": "ze_L_The_Medium_v1_6",
         "versions": [
@@ -389,7 +389,7 @@
         ]
     },
     "ze_LuigisMansion_p3": {
-        "name": "ze_LuigisMansion_p3",
+        "name": "ze_LuigisMansion",
         "cn_name": "路易鬼屋逃生",
         "default": "ze_LuigisMansion_p3",
         "versions": [
@@ -397,7 +397,7 @@
         ]
     },
     "ze_MindTree_v1_4": {
-        "name": "ze_MindTree_v1_4",
+        "name": "ze_MindTree",
         "cn_name": "树之魂",
         "default": "ze_MindTree_v1_6",
         "versions": [
@@ -408,7 +408,7 @@
         ]
     },
     "ze_Mission_1943_fix2": {
-        "name": "ze_Mission_1943_fix2",
+        "name": "ze_Mission_1943",
         "cn_name": "任务代号：1943",
         "default": "ze_Mission_1943_fix2",
         "versions": [
@@ -416,7 +416,7 @@
         ]
     },
     "ze_Mixture_3de_v1f2_g1t": {
-        "name": "ze_Mixture_3de_v1f2_g1t",
+        "name": "ze_Mixture_3de",
         "cn_name": "CS经典地图混搭",
         "default": "ze_Mixture_3de_v1f2_g1t",
         "versions": [
@@ -432,7 +432,7 @@
         ]
     },
     "ze_Paranoid_Rezurrection_v11_9_ps17": {
-        "name": "ze_Paranoid_Rezurrection_v11_9_ps17",
+        "name": "ze_Paranoid_Rezurrection",
         "cn_name": "游乐园：重装上阵",
         "default": "ze_Paranoid_Rezurrection_v11_9_ps17",
         "versions": [
@@ -440,7 +440,7 @@
         ]
     },
     "ze_Parking_p4": {
-        "name": "ze_Parking_p4",
+        "name": "ze_Parking",
         "cn_name": "停车场逃生",
         "default": "ze_Parking_p4",
         "versions": [
@@ -448,7 +448,7 @@
         ]
     },
     "ze_Pipeline_escape_v2_1": {
-        "name": "ze_Pipeline_escape_v2_1",
+        "name": "ze_Pipeline_escape",
         "cn_name": "蹲下大逃亡",
         "default": "ze_Pipeline_escape_v2_1",
         "versions": [
@@ -456,7 +456,7 @@
         ]
     },
     "ze_PoR_island_p3": {
-        "name": "ze_PoR_island_p3",
+        "name": "ze_PoR_island",
         "cn_name": "岛屿逃亡",
         "default": "ze_PoR_island_p3",
         "versions": [
@@ -464,7 +464,7 @@
         ]
     },
     "ze_Pokemon_Rivals_v1_8": {
-        "name": "ze_Pokemon_Rivals_v1_8",
+        "name": "ze_Pokemon_Rivals",
         "cn_name": "精灵宝可梦：大乱斗",
         "default": "ze_Pokemon_Rivals_v1_8",
         "versions": [
@@ -480,7 +480,7 @@
         ]
     },
     "ze_PotC_IV_p3": {
-        "name": "ze_PotC_IV_p3",
+        "name": "ze_PotC_IV",
         "cn_name": "加勒比逃生",
         "default": "ze_PotC_IV_p3",
         "versions": [
@@ -488,7 +488,7 @@
         ]
     },
     "ze_PotC_p4": {
-        "name": "ze_PotC_p4",
+        "name": "ze_PotC",
         "cn_name": "加勒比逃亡",
         "default": "ze_PotC_p4",
         "versions": [
@@ -496,7 +496,7 @@
         ]
     },
     "ze_Predator_Ultimate_p7": {
-        "name": "ze_Predator_Ultimate_p7",
+        "name": "ze_Predator_Ultimate",
         "cn_name": "铁血战士",
         "default": "ze_Predator_Ultimate_p7",
         "versions": [
@@ -504,7 +504,7 @@
         ]
     },
     "ze_RTCW_Ominous_Rumors_p4": {
-        "name": "ze_RTCW_Ominous_Rumors_p4",
+        "name": "ze_RTCW_Ominous_Rumors",
         "cn_name": "重返德军总部",
         "default": "ze_RTCW_Ominous_Rumors_p4",
         "versions": [
@@ -512,7 +512,7 @@
         ]
     },
     "ze_R_W_B_Final": {
-        "name": "ze_R_W_B_Final",
+        "name": "ze_R_W_B",
         "cn_name": "红白黑的乐章",
         "default": "ze_R_W_B_ulti",
         "versions": [
@@ -523,7 +523,7 @@
         ]
     },
     "ze_Rabanastre_Royal_a1": {
-        "name": "ze_Rabanastre_Royal_a1",
+        "name": "ze_Rabanastre_Royal",
         "cn_name": "最终幻想12：拉巴纳斯塔王都",
         "default": "ze_rabanastre_royal_a2_1",
         "versions": [
@@ -539,7 +539,7 @@
         ]
     },
     "ze_Random_p2": {
-        "name": "ze_Random_p2",
+        "name": "ze_Random",
         "cn_name": "随机小游戏",
         "default": "ze_Random_p2",
         "versions": [
@@ -547,7 +547,7 @@
         ]
     },
     "ze_Ratescape_b2cf": {
-        "name": "ze_Ratescape_b2cf",
+        "name": "ze_Ratescape",
         "cn_name": "玩具奇兵",
         "default": "ze_Ratescape_b2cf",
         "versions": [
@@ -571,7 +571,7 @@
         ]
     },
     "ze_SUMAI_facility_v1a": {
-        "name": "ze_SUMAI_facility_v1a",
+        "name": "ze_SUMAI_facility",
         "cn_name": "速卖设施逃生",
         "default": "ze_SUMAI_facility_v1a",
         "versions": [
@@ -579,7 +579,7 @@
         ]
     },
     "ze_SURVIVORS_p2": {
-        "name": "ze_SURVIVORS_p2",
+        "name": "ze_SURVIVORS",
         "cn_name": "最后的幸存者",
         "default": "ze_SURVIVORS_p2",
         "versions": [
@@ -587,7 +587,7 @@
         ]
     },
     "ze_S_A_M_v1_7": {
-        "name": "ze_S_A_M_v1_7",
+        "name": "ze_S_A_M",
         "cn_name": "剑与魔法",
         "default": "ze_S_A_M_v1_7",
         "versions": [
@@ -595,7 +595,7 @@
         ]
     },
     "ze_Serpentis_Temple_p2": {
-        "name": "ze_Serpentis_Temple_p2",
+        "name": "ze_Serpentis_Temple",
         "cn_name": "美杜莎神庙",
         "default": "ze_serpentis_temple_csgo5_c",
         "versions": [
@@ -605,7 +605,7 @@
         ]
     },
     "ze_ShroomForest_p6": {
-        "name": "ze_ShroomForest_p6",
+        "name": "ze_ShroomForest",
         "cn_name": "蘑菇森林1",
         "default": "ze_ShroomForest_p6",
         "versions": [
@@ -613,7 +613,7 @@
         ]
     },
     "ze_ShroomForest2_p6": {
-        "name": "ze_ShroomForest2_p6",
+        "name": "ze_ShroomForest2",
         "cn_name": "蘑菇森林2",
         "default": "ze_ShroomForest2_p6",
         "versions": [
@@ -621,7 +621,7 @@
         ]
     },
     "ze_ShroomForest3_p": {
-        "name": "ze_ShroomForest3_p",
+        "name": "ze_ShroomForest3",
         "cn_name": "蘑菇森林3",
         "default": "ze_ShroomForest3_p",
         "versions": [
@@ -629,7 +629,7 @@
         ]
     },
     "ze_Siberia_1990_v1_2c_p5": {
-        "name": "ze_Siberia_1990_v1_2c_p5",
+        "name": "ze_Siberia_1990",
         "cn_name": "1990西伯利亚逃生",
         "default": "ze_Siberia_1990_v1_2c_p5",
         "versions": [
@@ -637,7 +637,7 @@
         ]
     },
     "ze_Sit_Caelum_Paradisus_b7": {
-        "name": "ze_Sit_Caelum_Paradisus_b7",
+        "name": "ze_Sit_Caelum_Paradisus",
         "cn_name": "雕刻天堂",
         "default": "ze_Sit_Caelum_Paradisus_b7fix",
         "versions": [
@@ -665,7 +665,7 @@
         ]
     },
     "ze_Super_Metroid_v4": {
-        "name": "ze_Super_Metroid_v4",
+        "name": "ze_Super_Metroid",
         "cn_name": "超级银河战士",
         "default": "ze_Super_Metroid_v4",
         "versions": [
@@ -673,7 +673,7 @@
         ]
     },
     "ze_TV_station_r4": {
-        "name": "ze_TV_station_r4",
+        "name": "ze_TV_station",
         "cn_name": "逃离电视塔",
         "default": "ze_TV_station_r4",
         "versions": [
@@ -681,7 +681,7 @@
         ]
     },
     "ze_Totemo_Roka_v1": {
-        "name": "ze_Totemo_Roka_v1",
+        "name": "ze_Totemo_Roka",
         "cn_name": "洛卡之城",
         "default": "ze_Totemo_Roka_v1",
         "versions": [
@@ -689,7 +689,7 @@
         ]
     },
     "ze_Touhou_Gensokyo_b10p": {
-        "name": "ze_Touhou_Gensokyo_b10p",
+        "name": "ze_Touhou_Gensokyo",
         "cn_name": "东方幻想乡：阿尔法幻境3",
         "default": "ze_touhou_gensokyo_o4",
         "versions": [
@@ -702,7 +702,7 @@
         ]
     },
     "ze_UT2004_Convoy_r5": {
-        "name": "ze_UT2004_Convoy_r5",
+        "name": "ze_UT2004_Convoy",
         "cn_name": "虚幻竞技场",
         "default": "ze_UT2004_Convoy_r5",
         "versions": [
@@ -710,7 +710,7 @@
         ]
     },
     "ze_abandoned_bio_bunker_v1_4": {
-        "name": "ze_abandoned_bio_bunker_v1_4",
+        "name": "ze_abandoned_bio_bunker",
         "cn_name": "逃离：废弃生化地堡",
         "default": "ze_abandoned_bio_bunker_v1_4",
         "versions": [
@@ -726,7 +726,7 @@
         ]
     },
     "ze_abandoned_project_v1_2_csgo": {
-        "name": "ze_abandoned_project_v1_2_csgo",
+        "name": "ze_abandoned_project",
         "cn_name": "废弃计划",
         "default": "ze_abandoned_project_v1_2_csgo",
         "versions": [
@@ -734,7 +734,7 @@
         ]
     },
     "ze_aepp_nano_grid2_v1": {
-        "name": "ze_aepp_nano_grid2_v1",
+        "name": "ze_aepp_nano_grid2",
         "cn_name": "上世纪电子游戏",
         "default": "ze_aepp_nano_grid2_v1",
         "versions": [
@@ -742,7 +742,7 @@
         ]
     },
     "ze_alien_mountain_escape_ffvii_v5": {
-        "name": "ze_alien_mountain_escape_ffvii_v5",
+        "name": "ze_alien_mountain_escape_ffvii",
         "cn_name": "外星人高山逃亡跳刀版",
         "default": "ze_alien_mountain_escape_ffvii_v5",
         "versions": [
@@ -750,7 +750,7 @@
         ]
     },
     "ze_alien_shooter_v7_ps4": {
-        "name": "ze_alien_shooter_v7_ps4",
+        "name": "ze_alien_shooter",
         "cn_name": "孤胆枪手",
         "default": "ze_alien_shooter_v7_ps4",
         "versions": [
@@ -758,7 +758,7 @@
         ]
     },
     "ze_alien_vs_predator_v6go_fix": {
-        "name": "ze_alien_vs_predator_v6go_fix",
+        "name": "ze_alien_vs_predator",
         "cn_name": "异形大战铁血战士",
         "default": "ze_alien_vs_predator_v6go_fix",
         "versions": [
@@ -766,7 +766,7 @@
         ]
     },
     "ze_alitur_v3": {
-        "name": "ze_alitur_v3",
+        "name": "ze_alitur",
         "cn_name": "阿里图尔逃亡",
         "default": "ze_alitur_v3",
         "versions": [
@@ -774,7 +774,7 @@
         ]
     },
     "ze_angelbeats_guild_v1fix_2": {
-        "name": "ze_angelbeats_guild_v1fix_2",
+        "name": "ze_angelbeats_guild",
         "cn_name": "天使的心跳",
         "default": "ze_angelbeats_guild_v2_1",
         "versions": [
@@ -784,7 +784,7 @@
         ]
     },
     "ze_anima_ruins_v2_2": {
-        "name": "ze_anima_ruins_v2_2",
+        "name": "ze_anima_ruins",
         "cn_name": "逃离生命遗迹",
         "default": "ze_anima_ruins_v2_2",
         "versions": [
@@ -792,7 +792,7 @@
         ]
     },
     "ze_antartika_b2_csgo": {
-        "name": "ze_antartika_b2_csgo",
+        "name": "ze_antartika",
         "cn_name": "南极大逃亡",
         "default": "ze_antartika_b2_csgo",
         "versions": [
@@ -800,7 +800,7 @@
         ]
     },
     "ze_apocatastasis_v1_1": {
-        "name": "ze_apocatastasis_v1_1",
+        "name": "ze_apocatastasis",
         "cn_name": "最终剿匪",
         "default": "ze_apocatastasis_v1_1",
         "versions": [
@@ -808,7 +808,7 @@
         ]
     },
     "ze_arctic_escape_p2": {
-        "name": "ze_arctic_escape_p2",
+        "name": "ze_arctic_escape",
         "cn_name": "北极大逃亡",
         "default": "ze_arctic_escape_p2",
         "versions": [
@@ -824,7 +824,7 @@
         ]
     },
     "ze_artika_base_v1_2": {
-        "name": "ze_artika_base_v1_2",
+        "name": "ze_artika_base",
         "cn_name": "基地探秘",
         "default": "ze_artika_base_v1_2",
         "versions": [
@@ -832,7 +832,7 @@
         ]
     },
     "ze_ashen_keep_v0_3_csgo4": {
-        "name": "ze_ashen_keep_v0_3_csgo4",
+        "name": "ze_ashen_keep",
         "cn_name": "黑暗之魂",
         "default": "ze_ashen_keep_v0_3_csgo4",
         "versions": [
@@ -840,7 +840,7 @@
         ]
     },
     "ze_astral_v1_2_f3": {
-        "name": "ze_astral_v1_2_f3",
+        "name": "ze_astral",
         "cn_name": "星夜城堡",
         "default": "ze_astral_v1_2_f3",
         "versions": [
@@ -848,7 +848,7 @@
         ]
     },
     "ze_atix_apocalypse_p2": {
-        "name": "ze_atix_apocalypse_p2",
+        "name": "ze_atix_apocalypse",
         "cn_name": "末日逃生",
         "default": "ze_atix_apocalypse_p2",
         "versions": [
@@ -856,7 +856,7 @@
         ]
     },
     "ze_atos_v1_10": {
-        "name": "ze_atos_v1_10",
+        "name": "ze_atos",
         "cn_name": "梦幻阿托斯",
         "default": "ze_atos_v1_11",
         "versions": [
@@ -876,7 +876,7 @@
         ]
     },
     "ze_aztec_temple_go_v2": {
-        "name": "ze_aztec_temple_go_v2",
+        "name": "ze_aztec_temple_go",
         "cn_name": "阿兹特克寺庙逃亡",
         "default": "ze_aztec_temple_p2",
         "versions": [
@@ -885,7 +885,7 @@
         ]
     },
     "ze_aztecnoob_p2": {
-        "name": "ze_aztecnoob_p2",
+        "name": "ze_aztecnoob",
         "cn_name": "阿兹特克逃亡：菜鸡版",
         "default": "ze_aztecnoob_p2",
         "versions": [
@@ -893,7 +893,7 @@
         ]
     },
     "ze_barrage_p2": {
-        "name": "ze_barrage_p2",
+        "name": "ze_barrage",
         "cn_name": "求生之路：大坝",
         "default": "ze_barrage_p2",
         "versions": [
@@ -901,7 +901,7 @@
         ]
     },
     "ze_best_korea_v1": {
-        "name": "ze_best_korea_v1",
+        "name": "ze_best_korea",
         "cn_name": "最美朝鲜",
         "default": "ze_best_korea_v1",
         "versions": [
@@ -909,7 +909,7 @@
         ]
     },
     "ze_bh3rd_v2_b3": {
-        "name": "ze_bh3rd_v2_b3",
+        "name": "ze_bh3rd",
         "cn_name": "崩坏3",
         "default": "ze_bh3rd_v2_b3",
         "versions": [
@@ -917,7 +917,7 @@
         ]
     },
     "ze_biohazard2_rpd_004_p3_fix2": {
-        "name": "ze_biohazard2_rpd_004_p3_fix2",
+        "name": "ze_biohazard2_rpd_004",
         "cn_name": "生化危机：警察局",
         "default": "ze_biohazard2_rpd_004_p3_fix2",
         "versions": [
@@ -925,7 +925,7 @@
         ]
     },
     "ze_biohazard2_sewer_004_p8": {
-        "name": "ze_biohazard2_sewer_004_p8",
+        "name": "ze_biohazard2_sewer_004",
         "cn_name": "生化危机：下水道",
         "default": "ze_biohazard2_sewer_004_p8",
         "versions": [
@@ -933,7 +933,7 @@
         ]
     },
     "ze_biohazard3_nemesis_b5_2": {
-        "name": "ze_biohazard3_nemesis_b5_2",
+        "name": "ze_biohazard3_nemesis",
         "cn_name": "生化危机3：复仇女神",
         "default": "ze_biohazard3_nemesis_b5_2",
         "versions": [
@@ -941,7 +941,7 @@
         ]
     },
     "ze_biohazard_manor_004_p4": {
-        "name": "ze_biohazard_manor_004_p4",
+        "name": "ze_biohazard_manor_004",
         "cn_name": "生化危机：洋馆",
         "default": "ze_biohazard_manor_004_p4",
         "versions": [
@@ -949,7 +949,7 @@
         ]
     },
     "ze_biomes_attack_b1_2": {
-        "name": "ze_biomes_attack_b1_2",
+        "name": "ze_biomes_attack",
         "cn_name": "生态保卫战",
         "default": "ze_biomes_attack_b1_2",
         "versions": [
@@ -957,7 +957,7 @@
         ]
     },
     "ze_bioshock_v6_2_csgo7": {
-        "name": "ze_bioshock_v6_2_csgo7",
+        "name": "ze_bioshock_v6",
         "cn_name": "生化奇兵V6",
         "default": "ze_bioshock_v6_2_csgo7",
         "versions": [
@@ -966,7 +966,7 @@
         ]
     },
     "ze_bioshock_v7_1_csgo_a2": {
-        "name": "ze_bioshock_v7_1_csgo_a2",
+        "name": "ze_bioshock_v7",
         "cn_name": "生化奇兵V7",
         "default": "ze_bioshock_v7_1_csgo_a2",
         "versions": [
@@ -974,7 +974,7 @@
         ]
     },
     "ze_bisounours_party_p2": {
-        "name": "ze_bisounours_party_p2",
+        "name": "ze_bisounours_party",
         "cn_name": "迷糊熊的彩虹城堡",
         "default": "ze_bisounours_party_p2",
         "versions": [
@@ -982,7 +982,7 @@
         ]
     },
     "ze_blackmesa_escape_p4": {
-        "name": "ze_blackmesa_escape_p4",
+        "name": "ze_blackmesa_escape",
         "cn_name": "黑山基地：重装上阵",
         "default": "ze_blackmesa_escape_p4",
         "versions": [
@@ -990,7 +990,7 @@
         ]
     },
     "ze_blocky_mess_b2": {
-        "name": "ze_blocky_mess_b2",
+        "name": "ze_blocky_mess",
         "cn_name": "混乱的砖块",
         "default": "ze_blocky_mess_b2",
         "versions": [
@@ -998,7 +998,7 @@
         ]
     },
     "ze_bloodstrike_escape_v2": {
-        "name": "ze_bloodstrike_escape_v2",
+        "name": "ze_bloodstrike_escape",
         "cn_name": "血战画廊逃亡",
         "default": "ze_bloodstrike_escape_v2",
         "versions": [
@@ -1006,7 +1006,7 @@
         ]
     },
     "ze_boacceho_p4": {
-        "name": "ze_boacceho_p4",
+        "name": "ze_boacceho",
         "cn_name": "咸鱼大逃亡",
         "default": "ze_boacceho_p4",
         "versions": [
@@ -1022,7 +1022,7 @@
         ]
     },
     "ze_bowser_in_the_fire_sea_v1nb2": {
-        "name": "ze_bowser_in_the_fire_sea_v1nb2",
+        "name": "ze_bowser_in_the_fire_sea",
         "cn_name": "火海中的库巴",
         "default": "ze_bowser_in_the_fire_sea_v1nb2",
         "versions": [
@@ -1030,7 +1030,7 @@
         ]
     },
     "ze_bp-infested-prison_p2": {
-        "name": "ze_bp-infested-prison_p2",
+        "name": "ze_bp-infested-prison",
         "cn_name": "监狱大逃亡",
         "default": "ze_bp-infested-prison_p2",
         "versions": [
@@ -1038,7 +1038,7 @@
         ]
     },
     "ze_breakable_p3": {
-        "name": "ze_breakable_p3",
+        "name": "ze_breakable",
         "cn_name": "逃离：破坏方块之旅",
         "default": "ze_breakable_p3",
         "versions": [
@@ -1046,7 +1046,7 @@
         ]
     },
     "ze_bunker_escape_v1_2": {
-        "name": "ze_bunker_escape_v1_2",
+        "name": "ze_bunker_escape",
         "cn_name": "地堡逃生",
         "default": "ze_bunker_escape_v1_2",
         "versions": [
@@ -1054,7 +1054,7 @@
         ]
     },
     "ze_cancer_gopnik_escape_v7": {
-        "name": "ze_cancer_gopnik_escape_v7",
+        "name": "ze_cancer_gopnik_escape",
         "cn_name": "俄罗斯跳刀逃亡",
         "default": "ze_cancer_gopnik_escape_v8",
         "versions": [
@@ -1063,7 +1063,7 @@
         ]
     },
     "ze_castlevania_64_v1_3_b3_go": {
-        "name": "ze_castlevania_64_v1_3_b3_go",
+        "name": "ze_castlevania_64",
         "cn_name": "恶魔城启示录：外传",
         "default": "ze_castlevania_64_v1_3_b3_go",
         "versions": [
@@ -1071,7 +1071,7 @@
         ]
     },
     "ze_castlevania_p1_7": {
-        "name": "ze_castlevania_p1_7",
+        "name": "ze_castlevania",
         "cn_name": "恶魔城：整装待发",
         "default": "ze_castlevania_p1_7",
         "versions": [
@@ -1079,7 +1079,7 @@
         ]
     },
     "ze_ccc_floator_mislands_timantetrix_v2": {
-        "name": "ze_ccc_floator_mislands_timantetrix_v2",
+        "name": "ze_ccc_floator_mislands_timantetrix",
         "cn_name": "混搭大逃亡",
         "default": "ze_ccc_floator_mislands_timantetrix_v2",
         "versions": [
@@ -1087,7 +1087,7 @@
         ]
     },
     "ze_chaos_v7_4f": {
-        "name": "ze_chaos_v7_4f",
+        "name": "ze_chaos",
         "cn_name": "混沌迷宫",
         "default": "ze_chaos_v7_4f",
         "versions": [
@@ -1095,7 +1095,7 @@
         ]
     },
     "ze_check_b1_1": {
-        "name": "ze_check_b1_1",
+        "name": "ze_check",
         "cn_name": "西洋棋魂",
         "default": "ze_check_b1_1",
         "versions": [
@@ -1103,7 +1103,7 @@
         ]
     },
     "ze_cheezylab_beta7": {
-        "name": "ze_cheezylab_beta7",
+        "name": "ze_cheezylab",
         "cn_name": "实验室惊魂",
         "default": "ze_cheezylab_beta7",
         "versions": [
@@ -1111,7 +1111,7 @@
         ]
     },
     "ze_chemical_weapons_depot_v3a": {
-        "name": "ze_chemical_weapons_depot_v3a",
+        "name": "ze_chemical_weapons_depot",
         "cn_name": "逃离：化武仓库",
         "default": "ze_chemical_weapons_depot_v3a",
         "versions": [
@@ -1127,7 +1127,7 @@
         ]
     },
     "ze_chicken_ranch_v2_2": {
-        "name": "ze_chicken_ranch_v2_2",
+        "name": "ze_chicken_ranch",
         "cn_name": "小鸡农场逃亡",
         "default": "ze_chicken_ranch_v2_2",
         "versions": [
@@ -1135,7 +1135,7 @@
         ]
     },
     "ze_christmas_b2_1": {
-        "name": "ze_christmas_b2_1",
+        "name": "ze_christmas",
         "cn_name": "圣诞夜惊魂",
         "default": "ze_christmas_b2_1",
         "versions": [
@@ -1143,7 +1143,7 @@
         ]
     },
     "ze_christmas_infection_p2": {
-        "name": "ze_christmas_infection_p2",
+        "name": "ze_christmas_infection",
         "cn_name": "圣诞夜感染危机",
         "default": "ze_christmas_infection_p2",
         "versions": [
@@ -1151,7 +1151,7 @@
         ]
     },
     "ze_chroma_v0_4_csgo5": {
-        "name": "ze_chroma_v0_4_csgo5",
+        "name": "ze_chroma",
         "cn_name": "色调之形",
         "default": "ze_chroma_v0_4_csgo5",
         "versions": [
@@ -1159,7 +1159,7 @@
         ]
     },
     "ze_chrono_trigger_b3_fix5": {
-        "name": "ze_chrono_trigger_b3_fix5",
+        "name": "ze_chrono_trigger",
         "cn_name": "时空之轮",
         "default": "ze_chrono_trigger_b3_fix5",
         "versions": [
@@ -1167,7 +1167,7 @@
         ]
     },
     "ze_clara_civitate_v3": {
-        "name": "ze_clara_civitate_v3",
+        "name": "ze_clara_civitate",
         "cn_name": "海市蜃楼：克拉尔",
         "default": "ze_clara_civitate_v3",
         "versions": [
@@ -1175,7 +1175,7 @@
         ]
     },
     "ze_color_traps_beta2_4": {
-        "name": "ze_color_traps_beta2_4",
+        "name": "ze_color_traps",
         "cn_name": "逃离：彩色陷阱",
         "default": "ze_color_traps_beta2_4",
         "versions": [
@@ -1183,7 +1183,7 @@
         ]
     },
     "ze_colorlicouspilar_p4": {
-        "name": "ze_colorlicouspilar_p4",
+        "name": "ze_colorlicouspilar",
         "cn_name": "彩色世界",
         "default": "ze_colorlicouspilar_p4",
         "versions": [
@@ -1191,7 +1191,7 @@
         ]
     },
     "ze_colourslide_v2_2": {
-        "name": "ze_colourslide_v2_2",
+        "name": "ze_colourslide",
         "cn_name": "彩色滑行大冒险",
         "default": "ze_colourslide_v2_2",
         "versions": [
@@ -1199,7 +1199,7 @@
         ]
     },
     "ze_complex_b5_1_va2": {
-        "name": "ze_complex_b5_1_va2",
+        "name": "ze_complex",
         "cn_name": "拿头逃生",
         "default": "ze_complex_b5_1_va2",
         "versions": [
@@ -1207,7 +1207,7 @@
         ]
     },
     "ze_copy_escape_v1_1": {
-        "name": "ze_copy_escape_v1_1",
+        "name": "ze_copy_escape",
         "cn_name": "复制三合一",
         "default": "ze_copy_escape_v1_1",
         "versions": [
@@ -1215,7 +1215,7 @@
         ]
     },
     "ze_crashbandicoot_p3": {
-        "name": "ze_crashbandicoot_p3",
+        "name": "ze_crashbandicoot",
         "cn_name": "蛊惑狼大冒险",
         "default": "ze_crashbandicoot_p3",
         "versions": [
@@ -1223,7 +1223,7 @@
         ]
     },
     "ze_crazy_escape_v5_5_1": {
-        "name": "ze_crazy_escape_v5_5_1",
+        "name": "ze_crazy_escape",
         "cn_name": "疯狂大逃亡",
         "default": "ze_crazy_escape_v5_5_1",
         "versions": [
@@ -1231,7 +1231,7 @@
         ]
     },
     "ze_crazykart_v3": {
-        "name": "ze_crazykart_v3",
+        "name": "ze_crazykart",
         "cn_name": "卤粉卡丁车",
         "default": "ze_crazykart_v4",
         "versions": [
@@ -1240,7 +1240,7 @@
         ]
     },
     "ze_crystal_a2": {
-        "name": "ze_crystal_a2",
+        "name": "ze_crystal",
         "cn_name": "水晶逃生",
         "default": "ze_crystal_a2",
         "versions": [
@@ -1248,7 +1248,7 @@
         ]
     },
     "ze_crystal_escape_v2_final": {
-        "name": "ze_crystal_escape_v2_final",
+        "name": "ze_crystal_escape",
         "cn_name": "水晶大逃亡",
         "default": "ze_crystal_escape_v2_final",
         "versions": [
@@ -1256,7 +1256,7 @@
         ]
     },
     "ze_cursed_ruins_v3": {
-        "name": "ze_cursed_ruins_v3",
+        "name": "ze_cursed_ruins",
         "cn_name": "被诅咒的遗迹",
         "default": "ze_cursed_ruins_v3",
         "versions": [
@@ -1264,7 +1264,7 @@
         ]
     },
     "ze_cyberderp_p3": {
-        "name": "ze_cyberderp_p3",
+        "name": "ze_cyberderp",
         "cn_name": "魔幻现实主义",
         "default": "ze_cyberderp_p3",
         "versions": [
@@ -1272,7 +1272,7 @@
         ]
     },
     "ze_d_n_f_b0_1beta3a": {
-        "name": "ze_d_n_f_b0_1beta3a",
+        "name": "ze_d_n_f",
         "cn_name": "毒奶粉",
         "default": "ze_d_n_f_b0_1beta3a",
         "versions": [
@@ -1280,7 +1280,7 @@
         ]
     },
     "ze_dangerous_waters_xmas_v2_4": {
-        "name": "ze_dangerous_waters_xmas_v2_4",
+        "name": "ze_dangerous_waters_xmas",
         "cn_name": "危险水域逃亡：圣诞版",
         "default": "ze_dangerous_waters_xmas_v2_4",
         "versions": [
@@ -1288,7 +1288,7 @@
         ]
     },
     "ze_danmaku_v1_5": {
-        "name": "ze_danmaku_v1_5",
+        "name": "ze_danmaku",
         "cn_name": "梦幻弹幕",
         "default": "ze_danmaku_v1_5",
         "versions": [
@@ -1296,7 +1296,7 @@
         ]
     },
     "ze_dark_souls_ptd_v0_4_csgo7": {
-        "name": "ze_dark_souls_ptd_v0_4_csgo7",
+        "name": "ze_dark_souls_ptd",
         "cn_name": "黑暗之魂1",
         "default": "ze_dark_souls_ptd_v0_4_csgo7",
         "versions": [
@@ -1304,7 +1304,7 @@
         ]
     },
     "ze_deadcore_v1_3": {
-        "name": "ze_deadcore_v1_3",
+        "name": "ze_deadcore",
         "cn_name": "死亡核心",
         "default": "ze_deadcore_v1_3_f",
         "versions": [
@@ -1313,7 +1313,7 @@
         ]
     },
     "ze_deadly_crash_a1_1_fix": {
-        "name": "ze_deadly_crash_a1_1_fix",
+        "name": "ze_deadly_crash",
         "cn_name": "夺命姿态",
         "default": "ze_deadly_crash_a1_1_fix",
         "versions": [
@@ -1321,7 +1321,7 @@
         ]
     },
     "ze_deadly_stance_a2": {
-        "name": "ze_deadly_stance_a2",
+        "name": "ze_deadly_stance",
         "cn_name": "死亡姿态",
         "default": "ze_deadly_stance_a2",
         "versions": [
@@ -1329,7 +1329,7 @@
         ]
     },
     "ze_death_star_escape_v4_3_p2": {
-        "name": "ze_death_star_escape_v4_3_p2",
+        "name": "ze_death_star_escape",
         "cn_name": "逃离：死兆星",
         "default": "ze_death_star_escape_v4_3_p2",
         "versions": [
@@ -1337,7 +1337,7 @@
         ]
     },
     "ze_death_wish_v6": {
-        "name": "ze_death_wish_v6",
+        "name": "ze_death_wish",
         "cn_name": "死亡之愿",
         "default": "ze_death_wish_v6",
         "versions": [
@@ -1345,7 +1345,7 @@
         ]
     },
     "ze_deepice_p3": {
-        "name": "ze_deepice_p3",
+        "name": "ze_deepice",
         "cn_name": "深冰大逃亡",
         "default": "ze_deepice_p3",
         "versions": [
@@ -1353,7 +1353,7 @@
         ]
     },
     "ze_defensepart_escape_go1": {
-        "name": "ze_defensepart_escape_go1",
+        "name": "ze_defensepart_escape",
         "cn_name": "学会找点守",
         "default": "ze_defensepart_escape_go1",
         "versions": [
@@ -1361,7 +1361,7 @@
         ]
     },
     "ze_desert_fox_v7_6": {
-        "name": "ze_desert_fox_v7_6",
+        "name": "ze_desert_fox",
         "cn_name": "逃亡：沙漠之狐",
         "default": "ze_desert_fox_v7_6",
         "versions": [
@@ -1369,7 +1369,7 @@
         ]
     },
     "ze_destruction_of_exorath_v4_lite": {
-        "name": "ze_destruction_of_exorath_v4_lite",
+        "name": "ze_destruction_of_exorath",
         "cn_name": "破坏行动",
         "default": "ze_destruction_of_exorath_v4_lite",
         "versions": [
@@ -1377,7 +1377,7 @@
         ]
     },
     "ze_dev_r4a_d_csgo2": {
-        "name": "ze_dev_r4a_d_csgo2",
+        "name": "ze_dev_r4a_d",
         "cn_name": "基础材质逃生",
         "default": "ze_dev_r4a_d_csgo2",
         "versions": [
@@ -1385,7 +1385,7 @@
         ]
     },
     "ze_diddle_v3": {
-        "name": "ze_diddle_v3",
+        "name": "ze_diddle",
         "cn_name": "欺骗",
         "default": "ze_diddle_v3",
         "versions": [
@@ -1393,7 +1393,7 @@
         ]
     },
     "ze_doom3_v1_b3k": {
-        "name": "ze_doom3_v1_b3k",
+        "name": "ze_doom3",
         "cn_name": "毁灭战士3",
         "default": "ze_doom3_v1_b4k",
         "versions": [
@@ -1402,7 +1402,7 @@
         ]
     },
     "ze_draco_accidere_v4_final": {
-        "name": "ze_draco_accidere_v4_final",
+        "name": "ze_draco_accidere",
         "cn_name": "星台龙座",
         "default": "ze_draco_accidere_v4_final_93x",
         "versions": [
@@ -1411,7 +1411,7 @@
         ]
     },
     "ze_drakelord_castle_b3": {
-        "name": "ze_drakelord_castle_b3",
+        "name": "ze_drakelord_castle",
         "cn_name": "逃离龙爵城堡",
         "default": "ze_drakelord_castle_b3",
         "versions": [
@@ -1419,7 +1419,7 @@
         ]
     },
     "ze_dreamin_v2_3": {
-        "name": "ze_dreamin_v2_3",
+        "name": "ze_dreamin",
         "cn_name": "梦之韵",
         "default": "ze_dreamin_v2_4",
         "versions": [
@@ -1428,7 +1428,7 @@
         ]
     },
     "ze_easy_escape_v4": {
-        "name": "ze_easy_escape_v4",
+        "name": "ze_easy_escape",
         "cn_name": "简单大逃亡",
         "default": "ze_easy_escape_v4",
         "versions": [
@@ -1436,7 +1436,7 @@
         ]
     },
     "ze_eden_a2": {
-        "name": "ze_eden_a2",
+        "name": "ze_eden",
         "cn_name": "色差空间",
         "default": "ze_eden_a2",
         "versions": [
@@ -1444,7 +1444,7 @@
         ]
     },
     "ze_egyptian_b5": {
-        "name": "ze_egyptian_b5",
+        "name": "ze_egyptian",
         "cn_name": "埃及大逃亡",
         "default": "ze_egyptian_b5",
         "versions": [
@@ -1452,7 +1452,7 @@
         ]
     },
     "ze_einstein_v7": {
-        "name": "ze_einstein_v7",
+        "name": "ze_einstein",
         "cn_name": "爱因斯坦逃生",
         "default": "ze_einstein_v7",
         "versions": [
@@ -1460,7 +1460,7 @@
         ]
     },
     "ze_elevator_escape_p3": {
-        "name": "ze_elevator_escape_p3",
+        "name": "ze_elevator_escape",
         "cn_name": "电梯逃生",
         "default": "ze_elevator_escape_p3",
         "versions": [
@@ -1468,7 +1468,7 @@
         ]
     },
     "ze_epic_escape_v1_2": {
-        "name": "ze_epic_escape_v1_2",
+        "name": "ze_epic_escape",
         "cn_name": "史诗大逃亡",
         "default": "ze_epic_escape_v2_1",
         "versions": [
@@ -1478,7 +1478,7 @@
         ]
     },
     "ze_error_a0_ps": {
-        "name": "ze_error_a0_ps",
+        "name": "ze_error",
         "cn_name": "提示：错误大逃亡",
         "default": "ze_error_a0_ps",
         "versions": [
@@ -1486,7 +1486,7 @@
         ]
     },
     "ze_escape_horizon_p2": {
-        "name": "ze_escape_horizon_p2",
+        "name": "ze_escape_horizon",
         "cn_name": "边界线逃亡",
         "default": "ze_escape_horizon_p2",
         "versions": [
@@ -1494,7 +1494,7 @@
         ]
     },
     "ze_escape_the_eye_p3": {
-        "name": "ze_escape_the_eye_p3",
+        "name": "ze_escape_the_eye",
         "cn_name": "逃离天眼",
         "default": "ze_escape_the_eye_p3",
         "versions": [
@@ -1502,7 +1502,7 @@
         ]
     },
     "ze_eternal_grove_v3": {
-        "name": "ze_eternal_grove_v3",
+        "name": "ze_eternal_grove",
         "cn_name": "永恒之森",
         "default": "ze_eternal_grove_v3",
         "versions": [
@@ -1511,7 +1511,7 @@
         ]
     },
     "ze_eternal_void_p3": {
-        "name": "ze_eternal_void_p3",
+        "name": "ze_eternal_void",
         "cn_name": "永恒虚空",
         "default": "ze_eternal_void_p3",
         "versions": [
@@ -1519,7 +1519,7 @@
          ]
     },
     "ze_eternal_journey_go_v1_2": {
-        "name": "ze_eternal_journey_go_v1_2",
+        "name": "ze_eternal_journey_go",
         "cn_name": "永恒旅途",
         "default": "ze_eternal_journey_go_v1_4",
         "versions": [
@@ -1529,7 +1529,7 @@
         ]
     },
     "ze_evernight_a3_4": {
-        "name": "ze_evernight_a3_4",
+        "name": "ze_evernight",
         "cn_name": "永夜",
         "default": "ze_evernight_a3_4",
         "versions": [
@@ -1537,7 +1537,7 @@
         ]
     },
     "ze_evil_mansion_v1_finalf": {
-        "name": "ze_evil_mansion_v1_finalf",
+        "name": "ze_evil_mansion",
         "cn_name": "整蛊之家",
         "default": "ze_evil_mansion_v1_finalf",
         "versions": [
@@ -1545,7 +1545,7 @@
         ]
     },
     "ze_exchange_innovation_v1b_n1": {
-        "name": "ze_exchange_innovation_v1b_n1",
+        "name": "ze_exchange_innovation",
         "cn_name": "科研大楼逃生",
         "default": "ze_exchange_innovation_v1b_n1",
         "versions": [
@@ -1561,7 +1561,7 @@
         ]
     },
     "ze_fapescape_p5": {
-        "name": "ze_fapescape_p5",
+        "name": "ze_fapescape",
         "cn_name": "乐高大逃亡",
         "default": "ze_fapescape_p5",
         "versions": [
@@ -1569,7 +1569,7 @@
         ]
     },
     "ze_fapescape_rote_v1_3": {
-        "name": "ze_fapescape_rote_v1_3",
+        "name": "ze_fapescape_rote",
         "cn_name": "新乐高大逃亡",
         "default": "ze_fapescape_rote_v1_3",
         "versions": [
@@ -1585,7 +1585,7 @@
         ]
     },
     "ze_fast_escape_p2": {
-        "name": "ze_fast_escape_p2",
+        "name": "ze_fast_escape",
         "cn_name": "快速逃生",
         "default": "ze_fast_escape_p2",
         "versions": [
@@ -1593,7 +1593,7 @@
         ]
     },
     "ze_fcescape_b2": {
-        "name": "ze_fcescape_b2",
+        "name": "ze_fcescape",
         "cn_name": "FC小游戏逃生",
         "default": "ze_fcescape_b2",
         "versions": [
@@ -1601,7 +1601,7 @@
         ]
     },
     "ze_fe8_sacred_stones_b5": {
-        "name": "ze_fe8_sacred_stones_b5",
+        "name": "ze_fe8_sacred_stones",
         "cn_name": "火焰纹章",
         "default": "ze_fe8_sacred_stones_b5",
         "versions": [
@@ -1617,7 +1617,7 @@
         ]
     },
     "ze_ffvii_malgo_reactor_v3fix": {
-        "name": "ze_ffvii_malgo_reactor_v3fix",
+        "name": "ze_ffvii_malgo_reactor",
         "cn_name": "最终幻想7：混搭魔光炉",
         "default": "ze_ffvii_malgo_reactor_v6_b17",
         "versions": [
@@ -1632,7 +1632,7 @@
         ]
     },
     "ze_ffvii_temple_ancient_v4_3": {
-        "name": "ze_ffvii_temple_ancient_v4_3",
+        "name": "ze_ffvii_temple_ancient",
         "cn_name": "最终幻想7：古代种神庙",
         "default": "ze_ffvii_temple_ancient_v4_3",
         "versions": [
@@ -1699,7 +1699,7 @@
         ]
     },
     "ze_fire_temple_v2_4": {
-        "name": "ze_fire_temple_v2_4",
+        "name": "ze_fire_temple",
         "cn_name": "圣火寺庙",
         "default": "ze_fire_temple_v2_4",
         "versions": [
@@ -1707,7 +1707,7 @@
         ]
     },
     "ze_firewall_laboratory_part1_p2": {
-        "name": "ze_firewall_laboratory_part1_p2",
+        "name": "ze_firewall_laboratory_part1",
         "cn_name": "逃离：防火墙实验室第一章",
         "default": "ze_firewall_laboratory_part1_p2",
         "versions": [
@@ -1715,7 +1715,7 @@
         ]
     },
     "ze_firewall_laboratory_part2_p2": {
-        "name": "ze_firewall_laboratory_part2_p2",
+        "name": "ze_firewall_laboratory_part2",
         "cn_name": "逃离：防火墙实验室第二章",
         "default": "ze_firewall_laboratory_part2_p2",
         "versions": [
@@ -1723,7 +1723,7 @@
         ]
     },
     "ze_floating_rocks_survival_csgo_v3": {
-        "name": "ze_floating_rocks_survival_csgo_v3",
+        "name": "ze_floating_rocks_survival_csgo",
         "cn_name": "浮动石块求生",
         "default": "ze_floating_rocks_survival_csgo_v3",
         "versions": [
@@ -1747,7 +1747,7 @@
         ]
     },
     "ze_forest_a0_2": {
-        "name": "ze_forest_a0_2",
+        "name": "ze_forest",
         "cn_name": "雾影之森",
         "default": "ze_forest_r_a0_1",
         "versions": [
@@ -1756,7 +1756,7 @@
         ]
     },
     "ze_forestbunkers_v1_b3_e2": {
-        "name": "ze_forestbunkers_v1_b3_e2",
+        "name": "ze_forestbunkers",
         "cn_name": "逃离森林地堡",
         "default": "ze_forestbunkers_v1_b3_e2",
         "versions": [
@@ -1764,7 +1764,7 @@
         ]
     },
     "ze_forgotten_facility_p2": {
-        "name": "ze_forgotten_facility_p2",
+        "name": "ze_forgotten_facility",
         "cn_name": "被遗忘的设施",
         "default": "ze_forgotten_facility_p2",
         "versions": [
@@ -1772,7 +1772,7 @@
         ]
     },
     "ze_forsaken_temple_v1": {
-        "name": "ze_forsaken_temple_v1",
+        "name": "ze_forsaken_temple",
         "cn_name": "遗忘神殿",
         "default": "ze_forsaken_temple_v3_b4",
         "versions": [
@@ -1784,7 +1784,7 @@
         ]
     },
     "ze_frostdrake_tower_v1": {
-        "name": "ze_frostdrake_tower_v1",
+        "name": "ze_frostdrake_tower",
         "cn_name": "寒霜高塔",
         "default": "ze_frostdrake_tower_v1",
         "versions": [
@@ -1792,7 +1792,7 @@
         ]
     },
     "ze_frozentemple_rc1_1": {
-        "name": "ze_frozentemple_rc1_1",
+        "name": "ze_frozentemple",
         "cn_name": "冰封寺庙",
         "default": "ze_frozentemple_rc1_1",
         "versions": [
@@ -1800,7 +1800,7 @@
         ]
     },
     "ze_genso_of_last_v3_4_t1": {
-        "name": "ze_genso_of_last_v3_4_t1",
+        "name": "ze_genso_of_last",
         "cn_name": "最终的幻想",
         "default": "ze_genso_of_last_v3_4_t1",
         "versions": [
@@ -1808,7 +1808,7 @@
         ]
     },
     "ze_ggeasy_solo_win_v1_1": {
-        "name": "ze_ggeasy_solo_win_v1_1",
+        "name": "ze_ggeasy_solo_win",
         "cn_name": "混搭之城大冒险",
         "default": "ze_ggeasy_solo_win_v1_1",
         "versions": [
@@ -1816,7 +1816,7 @@
         ]
     },
     "ze_gods_wrath_p2": {
-        "name": "ze_gods_wrath_p2",
+        "name": "ze_gods_wrath",
         "cn_name": "神之怒",
         "default": "ze_gods_wrath_p2",
         "versions": [
@@ -1824,7 +1824,7 @@
         ]
     },
     "ze_grand_boatescape_p3": {
-        "name": "ze_grand_boatescape_p3",
+        "name": "ze_grand_boatescape",
         "cn_name": "神船逃生",
         "default": "ze_grand_boatescape_p3",
         "versions": [
@@ -1832,7 +1832,7 @@
         ]
     },
     "ze_grau_a03_4f": {
-        "name": "ze_grau_a03_4f",
+        "name": "ze_grau",
         "cn_name": "灰白",
         "default": "ze_grau_a03_4f",
         "versions": [
@@ -1840,7 +1840,7 @@
         ]
     },
     "ze_great_crate_escape_v6": {
-        "name": "ze_great_crate_escape_v6",
+        "name": "ze_great_crate_escape",
         "cn_name": "木板逃亡",
         "default": "ze_great_crate_escape_v6",
         "versions": [
@@ -1848,7 +1848,7 @@
         ]
     },
     "ze_greece_escape_p": {
-        "name": "ze_greece_escape_p",
+        "name": "ze_greece_escape",
         "cn_name": "希腊逃亡",
         "default": "ze_greece_escape_p",
         "versions": [
@@ -1864,7 +1864,7 @@
         ]
     },
     "ze_grey_sky_v1": {
-        "name": "ze_grey_sky_v1",
+        "name": "ze_grey_sky",
         "cn_name": "灰色天空",
         "default": "ze_grey_sky_v1_1",
         "versions": [
@@ -1873,7 +1873,7 @@
         ]
     },
     "ze_grey_world_a2_4": {
-        "name": "ze_grey_world_a2_4",
+        "name": "ze_grey_world",
         "cn_name": "灰色世界",
         "default": "ze_grey_world_a2_4",
         "versions": [
@@ -1881,7 +1881,7 @@
         ]
     },
     "ze_gris_v1_13": {
-        "name": "ze_gris_v1_13",
+        "name": "ze_gris",
         "cn_name": "创世E：格里斯",
         "default": "ze_gris_v1_13",
         "versions": [
@@ -1889,7 +1889,7 @@
         ]
     },
     "ze_halo_poa_p4": {
-        "name": "ze_halo_poa_p4",
+        "name": "ze_halo_poa",
         "cn_name": "光环行动",
         "default": "ze_halo_poa_p4",
         "versions": [
@@ -1897,7 +1897,7 @@
         ]
     },
     "ze_haunted_lab_escape_p3": {
-        "name": "ze_haunted_lab_escape_p3",
+        "name": "ze_haunted_lab_escape",
         "cn_name": "闹鬼实验室",
         "default": "ze_haunted_lab_escape_p3",
         "versions": [
@@ -1905,7 +1905,7 @@
         ]
     },
     "ze_hazard_escape_p2": {
-        "name": "ze_hazard_escape_p2",
+        "name": "ze_hazard_escape",
         "cn_name": "运气逃生",
         "default": "ze_hazard_escape_p2",
         "versions": [
@@ -1913,7 +1913,7 @@
         ]
     },
     "ze_heostime_escape_v1": {
-        "name": "ze_heostime_escape_v1",
+        "name": "ze_heostime_escape",
         "cn_name": "风暴英雄逃亡",
         "default": "ze_heostime_escape_v1",
         "versions": [
@@ -1929,7 +1929,7 @@
         ]
     },
     "ze_hidden_temple_v2_5": {
-        "name": "ze_hidden_temple_v2_5",
+        "name": "ze_hidden_temple",
         "cn_name": "隐秘寺庙",
         "default": "ze_hidden_temple_v2_5",
         "versions": [
@@ -1937,7 +1937,7 @@
         ]
     },
     "ze_highest_to_lowest_v1_1": {
-        "name": "ze_highest_to_lowest_v1_1",
+        "name": "ze_highest_to_lowest",
         "cn_name": "是男人就下100层",
         "default": "ze_highest_to_lowest_v1_1",
         "versions": [
@@ -1945,7 +1945,7 @@
         ]
     },
     "ze_hive_complex_v1_2_1": {
-        "name": "ze_hive_complex_v1_2_1",
+        "name": "ze_hive_complex",
         "cn_name": "生化危机：蜂巢",
         "default": "ze_hive_complex_v1_2_1",
         "versions": [
@@ -1953,7 +1953,7 @@
         ]
     },
     "ze_hold2_boring_b5": {
-        "name": "ze_hold2_boring_b5",
+        "name": "ze_hold2_boring",
         "cn_name": "学会断后",
         "default": "ze_hold2_boring_b5",
         "versions": [
@@ -1961,7 +1961,7 @@
         ]
     },
     "ze_hold_em_v8_f3": {
-        "name": "ze_hold_em_v8_f3",
+        "name": "ze_hold_em",
         "cn_name": "坚守行动",
         "default": "ze_hold_em_v8_f3",
         "versions": [
@@ -1969,7 +1969,7 @@
         ]
     },
     "ze_homo_party_a1": {
-        "name": "ze_homo_party_a1",
+        "name": "ze_homo_party",
         "cn_name": "homo同人馆",
         "default": "ze_homo_party_a1",
         "versions": [
@@ -1977,7 +1977,7 @@
         ]
     },
     "ze_horizon_sky_escape_v2": {
-        "name": "ze_horizon_sky_escape_v2",
+        "name": "ze_horizon_sky_escape",
         "cn_name": "逃离天之边际",
         "default": "ze_horizon_sky_escape_v2",
         "versions": [
@@ -1985,7 +1985,7 @@
         ]
     },
     "ze_hsc_a4_q3": {
-        "name": "ze_hsc_a4_q3",
+        "name": "ze_hsc",
         "cn_name": "方块世界",
         "default": "ze_hsc_a4_q3",
         "versions": [
@@ -1993,7 +1993,7 @@
         ]
     },
     "ze_huge_labo_escape_b1_2": {
-        "name": "ze_huge_labo_escape_b1_2",
+        "name": "ze_huge_labo_escape",
         "cn_name": "高山基地逃亡",
         "default": "ze_huge_labo_escape_b1_2",
         "versions": [
@@ -2001,7 +2001,7 @@
         ]
     },
     "ze_hypernova_v2fix": {
-        "name": "ze_hypernova_v2fix",
+        "name": "ze_hypernova",
         "cn_name": "逃亡：超新星",
         "default": "ze_hypernova_v2fix",
         "versions": [
@@ -2009,7 +2009,7 @@
         ]
     },
     "ze_iamlegend_p3": {
-        "name": "ze_iamlegend_p3",
+        "name": "ze_iamlegend",
         "cn_name": "我是传奇",
         "default": "ze_iamlegend_p3",
         "versions": [
@@ -2017,7 +2017,7 @@
         ]
     },
     "ze_ice_cavern_va4": {
-        "name": "ze_ice_cavern_va4",
+        "name": "ze_ice_cavern",
         "cn_name": "冰雪大山洞",
         "default": "ze_ice_cavern_va4",
         "versions": [
@@ -2025,7 +2025,7 @@
         ]
     },
     "ze_icecap_escape_v5_sgfix": {
-        "name": "ze_icecap_escape_v5_sgfix",
+        "name": "ze_icecap_escape",
         "cn_name": "西瓜橘子",
         "default": "ze_icecap_escape_v5_sgfix",
         "versions": [
@@ -2033,7 +2033,7 @@
         ]
     },
     "ze_iceworld_athletic_b2_5": {
-        "name": "ze_iceworld_athletic_b2_5",
+        "name": "ze_iceworld_athletic",
         "cn_name": "冰天雪地竞技场",
         "default": "ze_iceworld_athletic_b4_2",
         "versions": [
@@ -2046,7 +2046,7 @@
         ]
     },
     "ze_illya_b4_csgo_a3": {
-        "name": "ze_illya_b4_csgo_a3",
+        "name": "ze_illya_b4_csgo",
         "cn_name": "伊利亚城之旅",
         "default": "ze_illya_b4_csgo_a3",
         "versions": [
@@ -2062,7 +2062,7 @@
         ]
     },
     "ze_indiana_jones_v4a_004_p4": {
-        "name": "ze_indiana_jones_v4a_004_p4",
+        "name": "ze_indiana_jones_v4a_004",
         "cn_name": "夺宝奇兵",
         "default": "ze_indiana_jones_v4a_004_p4",
         "versions": [
@@ -2070,7 +2070,7 @@
         ]
     },
     "ze_infected_lab_v4_1": {
-        "name": "ze_infected_lab_v4_1",
+        "name": "ze_infected_lab",
         "cn_name": "感染危机：实验室",
         "default": "ze_infected_lab_v4_1",
         "versions": [
@@ -2078,7 +2078,7 @@
         ]
     },
     "ze_infected_sewers_v6_1_1": {
-        "name": "ze_infected_sewers_v6_1_1",
+        "name": "ze_infected_sewers",
         "cn_name": "感染危机：下水道",
         "default": "ze_infected_sewers_v6_1_1",
         "versions": [
@@ -2086,7 +2086,7 @@
         ]
     },
     "ze_infected_tramway_csgo1": {
-        "name": "ze_infected_tramway_csgo1",
+        "name": "ze_infected_tramway",
         "cn_name": "感染危机：缆车",
         "default": "ze_infected_tramway_csgo1",
         "versions": [
@@ -2094,7 +2094,7 @@
         ]
     },
     "ze_infiltration_final_r1": {
-        "name": "ze_infiltration_final_r1",
+        "name": "ze_infiltration_final",
         "cn_name": "潜入行动",
         "default": "ze_infiltration_final_r1",
         "versions": [
@@ -2102,7 +2102,7 @@
         ]
     },
     "ze_insanitycity_va2": {
-        "name": "ze_insanitycity_va2",
+        "name": "ze_insanitycity",
         "cn_name": "疯狂之城",
         "default": "ze_insanitycity_va2",
         "versions": [
@@ -2110,7 +2110,7 @@
         ]
     },
     "ze_interception_p2": {
-        "name": "ze_interception_p2",
+        "name": "ze_interception",
         "cn_name": "窃听计划",
         "default": "ze_interception_p2",
         "versions": [
@@ -2118,7 +2118,7 @@
         ]
     },
     "ze_isla_nublar_p3": {
-        "name": "ze_isla_nublar_p3",
+        "name": "ze_isla_nublar",
         "cn_name": "小岛求生",
         "default": "ze_isla_nublar_p3",
         "versions": [
@@ -2126,7 +2126,7 @@
         ]
     },
     "ze_italy_town_p2": {
-        "name": "ze_italy_town_p2",
+        "name": "ze_italy_town",
         "cn_name": "逃亡：意大利小镇",
         "default": "ze_italy_town_p2",
         "versions": [
@@ -2134,7 +2134,7 @@
         ]
     },
     "ze_jjba_v1": {
-        "name": "ze_jjba_v1",
+        "name": "ze_jjba",
         "cn_name": "jojo的乐高大冒险",
         "default": "ze_jjba_v4f",
         "versions": [
@@ -2148,7 +2148,7 @@
         ]
     },
     "ze_johnny_nukem_b8_1_csgo3": {
-        "name": "ze_johnny_nukem_b8_1_csgo3",
+        "name": "ze_johnny_nukem",
         "cn_name": "毁灭强尼",
         "default": "ze_johnny_nukem_b8_1_csgo3",
         "versions": [
@@ -2156,7 +2156,7 @@
         ]
     },
     "ze_journey_p4_1": {
-        "name": "ze_journey_p4_1",
+        "name": "ze_journey",
         "cn_name": "旅途",
         "default": "ze_journey_p4_1",
         "versions": [
@@ -2164,7 +2164,7 @@
         ]
     },
     "ze_jungle_escape_v1_2_d": {
-        "name": "ze_jungle_escape_v1_2_d",
+        "name": "ze_jungle_escape",
         "cn_name": "丛林逃生",
         "default": "ze_jungle_escape_v1_2_d",
         "versions": [
@@ -2172,7 +2172,7 @@
         ]
     },
     "ze_jurassicpark_evolved_v4": {
-        "name": "ze_jurassicpark_evolved_v4",
+        "name": "ze_jurassicpark_evolved",
         "cn_name": "侏罗纪公园：进化",
         "default": "ze_jurassicpark_evolved_v4",
         "versions": [
@@ -2180,7 +2180,7 @@
         ]
     },
     "ze_kaffe_escape_v2": {
-        "name": "ze_kaffe_escape_v2",
+        "name": "ze_kaffe_escape",
         "cn_name": "喝茶闲聊图",
         "default": "ze_kaffe_escape_v2",
         "versions": [
@@ -2196,7 +2196,7 @@
         ]
     },
     "ze_knightmare_v1d": {
-        "name": "ze_knightmare_v1d",
+        "name": "ze_knightmare",
         "cn_name": "噩梦",
         "default": "ze_knightmare_v1d",
         "versions": [
@@ -2204,7 +2204,7 @@
         ]
     },
     "ze_komatsu_v3": {
-        "name": "ze_komatsu_v3",
+        "name": "ze_komatsu",
         "cn_name": "拿头逃生跳刀版",
         "default": "ze_komatsu_v3",
         "versions": [
@@ -2212,7 +2212,7 @@
         ]
     },
     "ze_kororinpa_v1_7": {
-        "name": "ze_kororinpa_v1_7",
+        "name": "ze_kororinpa",
         "cn_name": "转转球迷宫",
         "default": "ze_kororinpa_v2_2",
         "versions": [
@@ -2222,7 +2222,7 @@
         ]
     },
     "ze_kraznov_poopata_p2": {
-        "name": "ze_kraznov_poopata_p2",
+        "name": "ze_kraznov_poopata",
         "cn_name": "天界方块之旅",
         "default": "ze_kraznov_poopata_p2",
         "versions": [
@@ -2230,7 +2230,7 @@
         ]
     },
     "ze_l0v0l_v1_4_csgo1": {
-        "name": "ze_l0v0l_v1_4_csgo1",
+        "name": "ze_l0v0l_v1_4",
         "cn_name": "颜文字l0v0l",
         "default": "ze_l0v0l_v1_4_csgo2",
         "versions": [
@@ -2239,7 +2239,7 @@
         ]
     },
     "ze_lab_v5": {
-        "name": "ze_lab_v5",
+        "name": "ze_lab",
         "cn_name": "逃离实验室",
         "default": "ze_lab_v5",
         "versions": [
@@ -2247,7 +2247,7 @@
         ]
     },
     "ze_laser_escape_v1_1": {
-        "name": "ze_laser_escape_v1_1",
+        "name": "ze_laser_escape",
         "cn_name": "精简版跳刀列车",
         "default": "ze_laser_escape_v1_1",
         "versions": [
@@ -2255,7 +2255,7 @@
         ]
     },
     "ze_laser_island_b6_8": {
-        "name": "ze_laser_island_b6_8",
+        "name": "ze_laser_island",
         "cn_name": "跳刀岛",
         "default": "ze_laser_island_b6_8",
         "versions": [
@@ -2263,7 +2263,7 @@
         ]
     },
     "ze_laserend_v2": {
-        "name": "ze_laserend_v2",
+        "name": "ze_laserend",
         "cn_name": "最终跳刀",
         "default": "ze_laserend_v3",
         "versions": [
@@ -2272,7 +2272,7 @@
         ]
     },
     "ze_last_man_standing_csgo1": {
-        "name": "ze_last_man_standing_csgo1",
+        "name": "ze_last_man_standing",
         "cn_name": "拯救世界：一人之巅",
         "default": "ze_last_man_standing_csgo2",
         "versions": [
@@ -2281,7 +2281,7 @@
         ]
     },
     "ze_legoland_crackheads_p2": {
-        "name": "ze_legoland_crackheads_p2",
+        "name": "ze_legoland_crackheads",
         "cn_name": "乐高逃亡",
         "default": "ze_legoland_crackheads_p2",
         "versions": [
@@ -2289,7 +2289,7 @@
         ]
     },
     "ze_lemonysnickets_p2": {
-        "name": "ze_lemonysnickets_p2",
+        "name": "ze_lemonysnickets",
         "cn_name": "雷蒙·斯尼奇历险",
         "default": "ze_lemonysnickets_p2",
         "versions": [
@@ -2305,7 +2305,7 @@
         ]
     },
     "ze_licciana_escape_zrgbr_b3": {
-        "name": "ze_licciana_escape_zrgbr_b3",
+        "name": "ze_licciana_escape_zrgbr",
         "cn_name": "陷阱跳刀岛",
         "default": "ze_licciana_escape_zrgbr_b3",
         "versions": [
@@ -2313,7 +2313,7 @@
         ]
     },
     "ze_light_911_v7_final": {
-        "name": "ze_light_911_v7_final",
+        "name": "ze_light_911",
         "cn_name": "911之光",
         "default": "ze_light_911_v7_csgo_ab1",
         "versions": [
@@ -2322,7 +2322,7 @@
         ]
     },
     "ze_light_panic_escape_b3": {
-        "name": "ze_light_panic_escape_b3",
+        "name": "ze_light_panic_escape",
         "cn_name": "逃亡：惩戒之光",
         "default": "ze_light_panic_escape_b3",
         "versions": [
@@ -2330,7 +2330,7 @@
         ]
     },
     "ze_lightnight_v1_4fix_hdr": {
-        "name": "ze_lightnight_v1_4fix_hdr",
+        "name": "ze_lightnight",
         "cn_name": "暗夜之光",
         "default": "ze_lightnight_v1_4fix_hdr",
         "versions": [
@@ -2338,7 +2338,7 @@
         ]
     },
     "ze_lila_panic_escape_v3_2": {
-        "name": "ze_lila_panic_escape_v3_2",
+        "name": "ze_lila_panic_escape",
         "cn_name": "里拉逃亡",
         "default": "ze_lila_panic_escape_v3_2",
         "versions": [
@@ -2346,7 +2346,7 @@
         ]
     },
     "ze_lolxd_final_fix_iswear_v3": {
-        "name": "ze_lolxd_final_fix_iswear_v3",
+        "name": "ze_lolxd_final_fix",
         "cn_name": "紫色世界",
         "default": "ze_lolxd_final_fix_iswear_v3",
         "versions": [
@@ -2355,7 +2355,7 @@
         ]
     },
     "ze_lost_v1_1": {
-        "name": "ze_lost_v1_1",
+        "name": "ze_lost",
         "cn_name": "失去",
         "default": "ze_lost_v2_1",
         "versions": [
@@ -2364,7 +2364,7 @@
         ]
     },
     "ze_luck_matters_v3_1": {
-        "name": "ze_luck_matters_v3_1",
+        "name": "ze_luck_matters",
         "cn_name": "运气很重要",
         "default": "ze_luck_matters_v3_1",
         "versions": [
@@ -2373,7 +2373,7 @@
         ]
     },
     "ze_lucy_escape_v1": {
-        "name": "ze_lucy_escape_v1",
+        "name": "ze_lucy_escape",
         "cn_name": "露西逃亡",
         "default": "ze_lucy_escape_v1",
         "versions": [
@@ -2398,7 +2398,7 @@
         ]
     },
     "ze_m_the_final_v1_2": {
-        "name": "ze_m_the_final_v1_2",
+        "name": "ze_m_the_final",
         "cn_name": "御坂大冒险（下）",
         "default": "ze_m_the_final_v1_4",
         "versions": [
@@ -2416,7 +2416,7 @@
         ]
     },
     "ze_magic_carpet_p2": {
-        "name": "ze_magic_carpet_p2",
+        "name": "ze_magic_carpet",
         "cn_name": "魔毯逃生",
         "default": "ze_magic_carpet_p2",
         "versions": [
@@ -2424,7 +2424,7 @@
         ]
     },
     "ze_mario_adventure_beta01_fix1": {
-        "name": "ze_mario_adventure_beta01_fix1",
+        "name": "ze_mario_adventure",
         "cn_name": "马里奥大冒险",
         "default": "ze_mario_adventure_beta01_fix1",
         "versions": [
@@ -2432,7 +2432,7 @@
         ]
     },
     "ze_mario_tower_v4_p2": {
-        "name": "ze_mario_tower_v4_p2",
+        "name": "ze_mario_tower",
         "cn_name": "逃离：马里奥城堡",
         "default": "ze_mario_tower_v4_p2",
         "versions": [
@@ -2440,7 +2440,7 @@
         ]
     },
     "ze_mars_escape_v1_2_pm1": {
-        "name": "ze_mars_escape_v1_2_pm1",
+        "name": "ze_mars_escape",
         "cn_name": "火星逃亡",
         "default": "ze_mars_escape_v1_2_pm1",
         "versions": [
@@ -2448,7 +2448,7 @@
         ]
     },
     "ze_meatropolis_p2": {
-        "name": "ze_meatropolis_p2",
+        "name": "ze_meatropolis",
         "cn_name": "克苏鲁：血肉幻境",
         "default": "ze_meatropolis_p2",
         "versions": [
@@ -2456,7 +2456,7 @@
         ]
     },
     "ze_military_escape_p4": {
-        "name": "ze_military_escape_p4",
+        "name": "ze_military_escape",
         "cn_name": "军营逃生",
         "default": "ze_military_escape_p4",
         "versions": [
@@ -2464,7 +2464,7 @@
         ]
     },
     "ze_minecraft_adventure_v1_3d": {
-        "name": "ze_minecraft_adventure_v1_3d",
+        "name": "ze_minecraft_adventure",
         "cn_name": "MC大冒险",
         "default": "ze_minecraft_adventure_v1_3d",
         "versions": [
@@ -2472,7 +2472,7 @@
         ]
     },
     "ze_minecraft_v1_1_p3": {
-        "name": "ze_minecraft_v1_1_p3",
+        "name": "ze_minecraft",
         "cn_name": "MC一日游",
         "default": "ze_minecraft_v1_1_p3",
         "versions": [
@@ -2480,7 +2480,7 @@
         ]
     },
     "ze_mirrors_edge_reborn_v4_2_p3_xfix": {
-        "name": "ze_mirrors_edge_reborn_v4_2_p3_xfix",
+        "name": "ze_mirrors_edge_reborn",
         "cn_name": "镜之边缘",
         "default": "ze_mirrors_edge_reborn_v4_2_p3_xfix",
         "versions": [
@@ -2488,7 +2488,7 @@
         ]
     },
     "ze_misaka2_b1": {
-        "name": "ze_misaka2_b1",
+        "name": "ze_misaka2",
         "cn_name": "御坂大冒险2：重塑",
         "default": "ze_misaka2_v1_2",
         "versions": [
@@ -2503,7 +2503,7 @@
         ]
     },
       "ze_misaka_v1_11": {
-        "name": "ze_misaka_v1_11",
+        "name": "ze_misaka",
         "cn_name": "御坂大冒险1：超越",
         "default": "ze_misaka_v1_11",
         "versions": [
@@ -2512,12 +2512,11 @@
             "ze_misaka_v1_7",
             "ze_misaka_v1_8",
             "ze_misaka_v1_9",
-            "ze_misaka_v1_11"
-            
+            "ze_misaka_v1_11"   
         ]
     },
     "ze_mist_q2": {
-        "name": "ze_mist_q2",
+        "name": "ze_mist",
         "cn_name": "雾城龙影",
         "default": "ze_mist_q2",
         "versions": [
@@ -2525,7 +2524,7 @@
         ]
     },
     "ze_mlgsurf_v1_2": {
-        "name": "ze_mlgsurf_v1_2",
+        "name": "ze_mlgsurf",
         "cn_name": "噪音滑翔",
         "default": "ze_mlgsurf_v1_2",
         "versions": [
@@ -2533,7 +2532,7 @@
         ]
     },
     "ze_mojos_minigames_v1_4_1": {
-        "name": "ze_mojos_minigames_v1_4_1",
+        "name": "ze_mojos_minigames",
         "cn_name": "莫霍斯迷你小游戏",
         "default": "ze_mojos_minigames_v1_4_1",
         "versions": [
@@ -2541,7 +2540,7 @@
         ]
     },
     "ze_monochrome_v1f": {
-        "name": "ze_monochrome_v1f",
+        "name": "ze_monochrome",
         "cn_name": "黑白",
         "default": "ze_monochrome_v1f",
         "versions": [
@@ -2549,7 +2548,7 @@
         ]
     },
     "ze_moon_base_p3": {
-        "name": "ze_moon_base_p3",
+        "name": "ze_moon_base",
         "cn_name": "月球基地逃生",
         "default": "ze_moon_base_p3",
         "versions": [
@@ -2557,7 +2556,7 @@
         ]
     },
     "ze_moon_shadow_legend_v10b_e": {
-        "name": "ze_moon_shadow_legend_v10b_e",
+        "name": "ze_moon_shadow_legend",
         "cn_name": "月影传说",
         "default": "ze_moon_shadow_legend_v10b_h_f",
         "versions": [
@@ -2583,7 +2582,7 @@
         ]
     },
     "ze_mountain_escape_snow_v5_8": {
-        "name": "ze_mountain_escape_snow_v5_8",
+        "name": "ze_mountain_escape_snow",
         "cn_name": "多模式爬雪山",
         "default": "ze_mountain_escape_snow_v5_8",
         "versions": [
@@ -2591,7 +2590,7 @@
         ]
     },
     "ze_mountain_escape_v5_zy": {
-        "name": "ze_mountain_escape_v5_zy",
+        "name": "ze_mountain_escape",
         "cn_name": "超级爬山",
         "default": "ze_mountain_escape_v5_zy_g1t",
         "versions": [
@@ -2600,7 +2599,7 @@
         ]
     },
     "ze_mountainspire_p2": {
-        "name": "ze_mountainspire_p2",
+        "name": "ze_mountainspire",
         "cn_name": "高山逃亡",
         "default": "ze_mountainspire_p2",
         "versions": [
@@ -2608,7 +2607,7 @@
         ]
     },
     "ze_mytex_escape_v3_p": {
-        "name": "ze_mytex_escape_v3_p",
+        "name": "ze_mytex_escape",
         "cn_name": "遗迹逃亡",
         "default": "ze_mytex_escape_v3_p",
         "versions": [
@@ -2616,7 +2615,7 @@
         ]
     },
     "ze_namviet_v6_1": {
-        "name": "ze_namviet_v6_1",
+        "name": "ze_namviet",
         "cn_name": "越南踩雷王",
         "default": "ze_namviet_v6_1",
         "versions": [
